@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me moinshaik1603@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Geek 
+- ⚡ Fun fact: I am a Geek 
 
 <!---
 Moin316/Moin316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

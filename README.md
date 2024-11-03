@@ -1,10 +1,10 @@
-- 👋 Hi, I’m ShaikMoin
+- 👋 Hi, I’m Shaik Moin
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me moinshaik1603@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a Geek 
+- ⚡ Fact: I am a Geek 
 
 <!---
 Moin316/Moin316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

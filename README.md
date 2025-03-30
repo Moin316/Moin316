@@ -3,11 +3,11 @@
 
  
  
-- 🔭 I’m currently working on **Frontend** 
+- 🔭 I’m currently working on **Backend** 
 
-- 🌱 I’m currently learning **React JS** 
+- 🌱 I’m currently learning **Express** 
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **FullStack Projects**
 
 - 🤝 I’m looking for help with **Backend**
 
